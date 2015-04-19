@@ -1,0 +1,10 @@
+?!(local server):exit
+~82800
+systemChat "This Server Will Restart In 1 Hour";
+~3000
+systemChat "This Server Will Restart In 10 Minutes";
+~300
+systemChat "This Server Will Restart In 5 Minutes";
+~180
+systemChat "This Server Will Restart In 2 Minutes, Log Out Now";
+exit:
